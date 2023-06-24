@@ -4,7 +4,7 @@
 	<div class="pull-right hidden-xs">
 		<b></b>
 	</div>
-	<strong>&copy;2021 <a href="https://mycoding.net">MC Project</a></strong> All rights reserved.
+	<strong>&copy;2023 <a href="https://smaaafbs.sch.id">IT SMA AFBS</a></strong> All rights reserved.
 </footer>
 
 </div>
