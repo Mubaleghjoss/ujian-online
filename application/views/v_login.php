@@ -30,13 +30,13 @@
 
 </head>
 
-<body style="background-image:url(image/123.jpg); background-size:cover; background-attachment: fixed;">
+<body style="background-image:url(image/samping-depan.jpg); background-size:cover; background-attachment: fixed;">
     <div class="login-box">
         <div class="login-box-body">
 
             <div class="login-logo">
-                <img src="image/mcp.png" alt="" width="35%"><br>
-                <a href="#"><b>Ujian</b> Daring V1</a>
+                <img src="image/logosmaafbs.png" alt="" width="35%"><br>
+                <a href="#"><b>Ujian Online</b> <br> SMA AFBS</a>
             </div><!-- /.login-logo -->
            
 
@@ -64,7 +64,7 @@
 
             <div align="center">
                
-                <strong>&copy;2021 <a href="https://mycoding.net" target="_blank">MC Project</a></strong>
+                <strong>&copy;2021 <a href="https://smaafbs.sch.id" target="_blank">IT SMA AFBS</a></strong>
             </div>
         </div><!-- /.login-box-body -->
     </div><!-- /.login-box -->
